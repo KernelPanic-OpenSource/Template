@@ -1,0 +1,11 @@
+.header {
+  padding: 2px;
+  background: #1abc9c;
+}
+
+.headertile {
+	text-align: left;
+	color: white;
+	font-size: 15px;
+	margin-left: 1rem!important;
+}
